@@ -1,6 +1,10 @@
 Testando repo 12
 a
+<<<<<<< HEAD
 b
 c
 d
 e
+=======
+
+>>>>>>> master
